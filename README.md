@@ -57,3 +57,12 @@ Important to initialise variables if you're making changes to it
 ## Practice Example 2 
 Find the largest number in the list
 list = [3, 41, 12, 9, 74, 15]
+
+# Loop control statements
+Used to control the flow of the loop, terminate the loop early if you want or skip over some iteration
+
+## Break statement
+Terminates loop immediately, moves to the next statement after the loop.
+
+## Continue statement
+Skip the rest of the code inside the loop for the current iteration and moves to the next iteration
