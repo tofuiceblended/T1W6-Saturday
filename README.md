@@ -83,3 +83,7 @@ Print a right-angled triangle pattern of stars. (stars = 5)
 Count the occurance of a letter in a list
 
 # enumerate() function
+Used to access the index and the value of the elements of the list.
+Use two variables in for loop.
+
+INDEX always starts from 0
