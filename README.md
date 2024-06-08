@@ -28,3 +28,32 @@ While the condition is met, keep executing the intended block. If not met, skip 
 Things to consider:
     - Program can enter the loop
     - Program can exit the loop
+
+## Range
+Predifined method (e.g. print - has a specific purpose)
+A pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of numbers.
+
+range(1, 2, 3) (start, stop, step) if you don't define 1, it will automatically be 0, if you don't define step, it will automatically be 1
+range(1, 5, 2)
+
+doesn't work with floats
+
+## For Loop
+For each item in a sequence, execute the intended statements.
+
+for variable_mname in sequence:
+    statements
+
+    [] - for lists
+    {} - for printing
+
+## Practice Exapmle 1-
+Finding the sum of the first ten numbers (1, 2, ...10)
+
+Important to initialise variables if you're making changes to it
+
+## Practice Example 2 
+Find the largest number in the list
+list = [3, 41, 12, 9, 74, 15]
