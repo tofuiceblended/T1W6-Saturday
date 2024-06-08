@@ -43,7 +43,7 @@ doesn't work with floats
 ## For Loop
 For each item in a sequence, execute the intended statements.
 
-for variable_mname in sequence:
+for variable_name in sequence:
     statements
 
     [] - for lists
@@ -66,3 +66,20 @@ Terminates loop immediately, moves to the next statement after the loop.
 
 ## Continue statement
 Skip the rest of the code inside the loop for the current iteration and moves to the next iteration
+
+# Nested Loops
+A loop inside another loop! Like inception.
+Useful for running over multi-dimensional structures like the MATRIX or a list of lists.
+
+## Practice Example 1
+Print a right-angled triangle pattern of stars. (stars = 5)
+*
+**
+***
+****
+*****
+
+## Practice Example 2
+Count the occurance of a letter in a list
+
+# enumerate() function
